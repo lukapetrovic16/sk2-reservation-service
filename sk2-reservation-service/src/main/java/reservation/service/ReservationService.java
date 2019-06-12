@@ -1,5 +1,8 @@
 package reservation.service;
 
-public class ReservationService {
+import reservation.domain.Reservation;
+import java.util.List;
+
+public interface ReservationService {
 
 }
