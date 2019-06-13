@@ -9,6 +9,7 @@ import org.springframework.context.annotation.ComponentScan;
 @SpringBootApplication
 @EnableEurekaClient
 @ComponentScan(basePackages = "reserve", lazyInit = true)
+
 public class ReservationApplication {
 
 	public static void main(String[] args) {

@@ -16,7 +16,6 @@ public class ReserveController {
 	private final ReservationService service;
 
     public ReserveController(ReservationService service) {
-		// TODO Auto-generated constructor stub
     	this.service = service;
 	}
 }
